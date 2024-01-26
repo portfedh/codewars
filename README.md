@@ -21,10 +21,9 @@ Each file contains the following sections:
 
 4. **Examples**: Examples illustrating the usage of the function.
 
-6. *Pseudo Code**: High-level plan before the actual code implementation.
+5. **Pseudo Code**: High-level plan before the actual code implementation.
 
-8. **Code**: Implementation of the solution.
-
+6. **Code**: Implementation of the solution.
 
 ## Example File
 
@@ -115,4 +114,4 @@ function alphabetPosition(text) {
 }
 
 alphabetPosition("My name is pablo");
-
+```
